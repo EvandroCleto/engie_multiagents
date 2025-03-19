@@ -1,0 +1,26 @@
+# Projeto 1 - Reasoning, RAG e Multi-Agente Setup (ReAct Agents)
+
+# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+
+conda create --name engie python=3.12
+
+# Ative o ambiente:
+
+conda activate engie (ou: source activate engie)
+
+# Instale o pip e as dependências:
+
+conda install pip
+pip install -r requirements.txt 
+
+# Execute os scripts com o comando:
+
+python nome_script.py
+
+# Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
+
+conda deactivate
+conda remove --name engie --all
+
+
+
