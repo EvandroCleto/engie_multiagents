@@ -15,4 +15,4 @@ O projeto é composto de:
 
 5- Front-end usando Streamilt para realizar pesquisas utilizando o Multi Agente;
 
-6- O LLM utilizado noprojeto foi o gpt-4o.
+6- O LLM utilizado no projeto foi o gpt-4o.
