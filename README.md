@@ -13,6 +13,6 @@ O projeto é composto de:
 
 4- Multi Agente orquestrador com racíocinio e RAG no Lance DB construído com o pacote phidata;
 
-5- Front-end usando Streamilt para realizar pesquisa utilizando o Multi Agente;
+5- Front-end usando Streamilt para realizar pesquisas utilizando o Multi Agente;
 
-6- O LLM utilido foi o gpt-4o.
+6- O LLM utilizado noprojeto foi o gpt-4o.
